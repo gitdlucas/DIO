@@ -53,6 +53,20 @@ Versão atual do ECMAScript
         * Operadores rest/spread
         * Iteração Assíncrona
         * Promise.prototype.finally()
+        * 
+
+---------------------------------------------------------------------------------------
+                                - TYPESCRIPT - 
+TypeScript é um superset da linguagem JavaScript
+Vide https://www.typescriptlang.org
+
+---------------------------------------------------------------------------------------
+                    - FUNÇÃO DE PRIMEIRA CLASSE OU ORDEM MAIOR -
+
+Função de primeira classe significa uma função que:
+    Pode 
+
+
 
 
 
